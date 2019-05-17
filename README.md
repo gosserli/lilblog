@@ -9,7 +9,10 @@ More changes
 
   This line is added with Xcode! :tada: :pizza:
 
-Whats up guys welcome back to my blog :sparkles: 
+Whats up guys welcome back to my blog :sparkles:
+
+:tada: :sparkles: :octocat:
+
 
 
   More changes
