@@ -9,6 +9,7 @@ More changes
 
   This line is added with Xcode! :tada: :pizza:
 
-  This line is added with Atom! :sparkles: ; :pizza:
+Whats up guys welcome back to my blog :sparkles: 
+
 
   More changes
